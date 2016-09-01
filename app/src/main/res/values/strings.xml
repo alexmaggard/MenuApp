@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="settings">settings</string>
+    <string name="overflow">overflow</string>
+    <string name="blue">Blue</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+</resources>
